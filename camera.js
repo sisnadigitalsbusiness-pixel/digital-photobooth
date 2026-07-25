@@ -31,14 +31,19 @@ async function startCamera() {
 
         video.srcObject = stream;
 
-    } catch (err) {
+    }catch (err) {
 
-        alert("Unable to access camera.");
-        console.error(err);
+    console.error("Camera error:", err);
 
-    }
+    alert(
+        "Camera Error:\n\n" +
+        err.name + "\n\n" +
+        err.message
+    );
 
 }
+
+
 
 startCamera();
 

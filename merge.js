@@ -91,7 +91,11 @@ async function createPhotostrip(photos) {
                     // Draw frame on top
                     ctx.drawImage(frame, 0, 0);
 
-                    downloadStrip(canvas);
+                    const imageData = canvas.toDataURL("image/png");
+
+await uploadToDrive(imageData);
+
+downloadStrip(canvas);
 
                 }
 
