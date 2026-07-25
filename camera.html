@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital Photobooth</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>Digital Photobooth</h1>
+
+        <video id="camera" autoplay playsinline></video>
+
+        <div id="countdown"></div>
+
+        <br>
+
+        <button id="capture">
+            📸 Take Photo
+        </button>
+
+        <!-- Hidden canvas used for creating the photostrip -->
+        <canvas id="canvas" style="display:none;"></canvas>
+
+    </div>
+
+    <!-- JavaScript Files -->
+ 
+    <script src="merge.js"></script>
+    <script src="camera.js"></script>
+
+</body>
+
+</html>
