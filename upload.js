@@ -1,5 +1,4 @@
-const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbw70EVxaVNSPJKWqhrq4wsETzYZL53E_6QziKCgNeQ-_yFj3KrVVelAABFjxanIJME6Ig/exec";
-
+const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzDC9D2ICPdXyvwyUorCf0NXq-sCxD2tlPYTTU2Rf_8bVQk5pR50q0t6ax7dX_MEypZ8w/exec"
 async function uploadToDrive(imageData) {
 
     try {
