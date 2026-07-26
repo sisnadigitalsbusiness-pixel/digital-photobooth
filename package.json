@@ -1,0 +1,24 @@
+{
+  "name": "diy-photobooth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "camera.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sisnadigitalsbusiness-pixel/digital-photobooth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sisnadigitalsbusiness-pixel/digital-photobooth/issues"
+  },
+  "homepage": "https://github.com/sisnadigitalsbusiness-pixel/digital-photobooth#readme",
+  "dependencies": {
+    "googleapis": "^173.0.0"
+  }
+}

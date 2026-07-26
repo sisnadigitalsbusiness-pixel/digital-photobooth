@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sisna-digital-photobooth",
+  "private_key_id": "a51176a3e31c7cca40fc6b8baa3d4aef0fce54f3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC+BGQgKUYsMSIH\n1buxPAmhVlo5V0UoiHHEC300KvftChUQrvP+0x9wAEybXSBlh8tuITnHSZntHSEI\nAea3HMcP4mruoQWA2IRojVbF+0/hdIUwYMe4E6BjpLcLY1nxv41N38WxAHxOVZIs\ndX1FkGBXd9spZ1xSDmn84KyfFZ2bJuPnQfO1GZzwgaGHLZvJRjYB8DmiW4dwo6uM\norwXXJSBQcCNntvaqAhj7wCCSxyZSg8ZQvndwWsaHHqBsNRNJE9kAb/YSPZEcCCU\nyE/UgvYfsgKn00tGkYxjx/1S+hK7S41lbOCoZKYO/DAotcJefi+A18skFAdUH3ZY\ndBtWjc67AgMBAAECggEAKpqFcIiQiTwC60rKqHRTnG7mD9E3Wl0tVM1WpymzKNyH\n2JPBdTMU62HFy1fX+au2utyMPdiMwJM1Yrw6ZHf5UeBsJVDJERh6p455FC7CvEQJ\n0M0COo17+ptlxxHhishuADXZ91Oqi024VmuJSN2UHEhtRR09n9BHh0FAsvJ/wddV\nTSetFZQ25nfSBcp3TiTdC9jVOfA143HS8xlt0COIVn7jS36BVl5UqNV4fceUoCMr\nFHmqKYwOx6jCji28MoxnNkfvwcUiXo2Zx/13LwtPcbKWdqZt7VZTKKl7D+dThOA+\nSHoMsclpsIJwVXsqQxcPlP0xNqs0AkvRBHFhpHhkcQKBgQDq1KA7WXHcU2P8SYkX\ncCp/n6t7SD3wtUuH8JGMLC8ZC+TvJfOTAOHBMprz1vppTfWXGp9jds7XLi1HIsHt\no1+dpheneQiK5dQBiSJyw3vLW6AqnIvUyeFLjfAnF66Mp3S5jaEHUwOwZR5xxbLQ\nIw+7VdSjSVESDlExFxv4090TNwKBgQDPJZHlkFoTkNaOCpZi0T96BXsMAZYeJGeI\niX0VaOgiU5yw44I5Qpdt/SEnaGDcak9cOugLj9nMRQEJgbPeVJlIXHhc/D5uTUr2\noicmVbtoSHoYRm3Q8lFmGfPJYoXT/EnlxnAnUUzULf40KVF9Sm0eNOUDD8CTrtQ9\np5rcIL4qnQKBgFPh08Kfdq6PEx4hXlkC9gtUi7qj2YxMFkjew/7gIYq+1u4eDl2q\naPnMC9GiLxzCfkGVfu3WmJgApKfOYJt0SklT9QsbjtOeuRY7WBTKg0Pm3NWbyc8e\ntd15PBmauf0ALA/D6YtmOeEenbtiNTdn7syqIiSZod3jQ1lXueQuOcANAoGAXaJl\n6JbvoJh/44T1pYVgZA/GJw8whD+AbT94wwzAoYOZ+HteifOH77fUHLQZ1IhZhx85\ndMB5etRWO63dWEp1XzgtUBrVPZbCo+l4OOPX6rOYPRDY4vIlyTlB8W4PgFsyLCMe\n3yboy6Ben8VtiGz0Fgti2ZdtPVRxq8zvO0GxtCECgYEA11S4dWQMKFKmni5sSUPj\nmWXLso0At+kpnoclEiUNpBDHLwt0P7HSfqJci/D6s+a/cbgwCET+6Bzx4YUgpU0V\nXrGUbhGIEHCU+lsOUz0Tg0M0w5OsAsOWr10EcwyKYe7IU26C2sXxRuZuoVEBokvM\nz/pSeuT+jeLXz7zkQfpcw8M=\n-----END PRIVATE KEY-----\n",
+  "client_email": "photobooth-drive@sisna-digital-photobooth.iam.gserviceaccount.com",
+  "client_id": "110444182199878415421",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/photobooth-drive%40sisna-digital-photobooth.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
