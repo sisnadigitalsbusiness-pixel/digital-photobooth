@@ -102,6 +102,11 @@ const size = Math.min(video.videoWidth, video.videoHeight);
 const sx = (video.videoWidth - size) / 2;
 const sy = (video.videoHeight - size) / 2;
 
+tempCtx.save();
+
+tempCtx.translate(tempCanvas.width, 0);
+tempCtx.scale(-1, 1);
+
 tempCtx.drawImage(
     video,
     sx,
@@ -113,6 +118,8 @@ tempCtx.drawImage(
     tempCanvas.width,
     tempCanvas.height
 );
+
+tempCtx.restore();
 
         photos.push(tempCanvas.toDataURL("image/png"));
 

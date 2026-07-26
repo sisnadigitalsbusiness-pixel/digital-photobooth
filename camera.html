@@ -15,9 +15,19 @@
 
         <h1>Digital Photobooth</h1>
 
-        <video id="camera" autoplay playsinline></video>
+        <div class="camera-container">
 
-        <div id="countdown"></div>
+            <video id="camera" autoplay playsinline></video>
+
+            <img
+                id="frameOverlay"
+                src="assets/photostrip.png"
+                alt="Frame Overlay"
+            >
+
+            <div id="countdown"></div>
+
+        </div>
 
         <br>
 
@@ -25,13 +35,13 @@
             📸 Take Photo
         </button>
 
-        <!-- Hidden canvas used for creating the photostrip -->
+        <!-- Hidden canvas -->
         <canvas id="canvas" style="display:none;"></canvas>
 
     </div>
 
-    <!-- JavaScript Files -->
- 
+    <!-- JavaScript -->
+    <script src="upload.js"></script>
     <script src="merge.js"></script>
     <script src="camera.js"></script>
 
